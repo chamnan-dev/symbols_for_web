@@ -1,12 +1,12 @@
 # Font Tacteing for using on website 
 
 My cdn link: 
-```shell 
+```link 
 https://cdn.jsdelivr.net/gh/chamnan-dev/symbols_for_web@master/stylesheet.css
 ```
 
 You can using with css: 
-```css
+```html
 <head>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/chamnan-dev/symbols_for_web@master/stylesheet.css">
 </head>
