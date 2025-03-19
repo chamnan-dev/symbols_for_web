@@ -1,3 +1,7 @@
+<link rel="stylesheet" href="style.css">
+
+<p class="font1">Y</p>
+
 # Font Tacteing for using on website 
 
 My cdn link: 
