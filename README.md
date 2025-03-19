@@ -1,7 +1,7 @@
 # Font Tacteing for using on website 
 
 My cdn link: 
-```link 
+```css 
 https://cdn.jsdelivr.net/gh/chamnan-dev/symbols_for_web@master/stylesheet.css
 ```
 
