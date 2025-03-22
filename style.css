@@ -35,7 +35,7 @@
 .writingboard {
     font-size: 30px;
     box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
-    height: 10em;
+    height: 5em;
     overflow: scroll;
     display: block;
     width: 100%;
